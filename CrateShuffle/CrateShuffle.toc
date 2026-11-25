@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: CrateShuffle
+## Notes: Finds the cheapest Waylaid Crate + Forged Delivery Receipt route to Azeroth Commerce Authority / Durotar Supply and Logistics rep, from live AH prices.
+## Author: Fritjof Johnson
+## Version: 1.0.0
+## SavedVariables: CrateShuffleDB
+
+Data.lua
+Engine.lua
+Core.lua
+Scanner.lua
+UI.lua
